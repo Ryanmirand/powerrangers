@@ -8,7 +8,7 @@
     Title="MauiApp1">
 
     <ShellContent
-        Title="Home"
+        Title="Robinson's Mall"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
