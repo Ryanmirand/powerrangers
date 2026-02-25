@@ -11,5 +11,9 @@
         Title="Robinson's Mall"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
-
+    <TabBar>
+    <ShellContent Title="Cainta"
+     ContentTemplate="{DataTemplate local:MainPage}"
+     Route="MainPage"
+    />
 </Shell>
