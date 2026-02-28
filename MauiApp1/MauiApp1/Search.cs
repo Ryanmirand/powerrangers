@@ -1,12 +1,34 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Maui.Controls;
 
-namespace MauiApp4
+namespace MauiApp1;
+
+public class Search : SearchHandler
 {
-    class Class1
+
+    private List<string> items = new List<string>
     {
+            "Antipolo",
+            "Cainta",
+            "Magnolia",
+            "Galleria",
+            "Manila",
+            "Los Banos"
+   
+    };
+    public Search()
+    {
+        Placeholder = "Search";
+    }
+
+    protected override void OnQueryChanged(string oldValue, string newValue)
+    {
+       
+        ItemsSource = null;
+    }
+
+    protected override async void OnItemSelected(object item)
+    {
+        
+        await Application.Current.MainPage.DisplayAlert("Info", "Something was selected", "OK");
     }
 }
