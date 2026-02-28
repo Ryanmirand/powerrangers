@@ -1,13 +1,97 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MauiApp1.MainPage">
+             x:Class="MauiApp4.MainPage">
 
-    <ScrollView>
+    <ScrollView x:Name="myScroll">
         <VerticalStackLayout
             Padding="30,0"
             Spacing="25">
-            
+
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Antipolo"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Cainta"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Magnolia"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Galleria"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Manila"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Frame
+                BorderColor="Red"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                >
+                <Label
+                    Text="Los Banos"
+                    FontSize="35"
+                    TextColor="Red"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center"
+                    />
+            </Frame>
+            <Button
+                x:Name="CounterBtn"
+                Text="From the Top" 
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill"
+                Margin="0,30,0,30"/>
         </VerticalStackLayout>
     </ScrollView>
 
