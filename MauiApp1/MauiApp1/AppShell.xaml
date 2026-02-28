@@ -35,4 +35,11 @@
         Route="MainPage" 
     />
     </FlyoutItem>
+    <FlyoutItem Title="Help">
+        <ShellContent
+        Title="Help"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" 
+    />
+    </FlyoutItem> 
 </Shell>
