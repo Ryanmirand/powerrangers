@@ -1,11 +1,15 @@
-﻿namespace MauiApp1
+namespace MauiApp1;
+
+public partial class MainPage : ContentPage
 {
-    public partial class MainPage : ContentPage
+    public MainPage()
     {
-        public MainPage()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
     }
 
+    private async void OnCounterClicked(object sender, EventArgs e)
+    {
+        await Task.Delay(100);
+        await myScroll.ScrollToAsync(0, 0, animated: true);
+    }
 }
