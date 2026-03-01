@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.SecondPage"
+             BackgroundColor="#f9c4ee">
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Label
+                Text="Robinsons"
+                FontSize="28"
+                FontAttributes="Bold"
+                TextColor="#C62828"
+                HorizontalOptions="Center"
+                Margin="0,16,0,8"
+                />
+            <Frame
+                CornerRadius="16"
+                BackgroundColor="#cda5c0"
+                Padding="16"
+                BorderColor="Gray">
+                <HorizontalStackLayout Spacing="16">
+                    <Image Source="jollibee.png"
+                           WidthRequest="64"
+                           HeightRequest="64"
+                           Aspect="AspectFit" />
+                    <VerticalStackLayout Spacing="16" VerticalOptions="Center">
+                        <Label
+                            Text="Jollibee"
+                            FontSize="20"
+                            TextColor="#C62828"
+                            FontAttributes="Bold"
+                            VerticalOptions="Center"
+                            />
+                        
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+                
+            </Frame>
+            <Frame
+                CornerRadius="16"
+                BackgroundColor="#cda5c0"
+                Padding="16"
+                BorderColor="Gray">
+                <HorizontalStackLayout Spacing="16">
+                    <Image Source="shakeys.png"
+                           WidthRequest="64"
+                           HeightRequest="64"
+                           Aspect="AspectFit" />
+                    <VerticalStackLayout Spacing="16" VerticalOptions="Center">
+                        <Label
+                            Text="Shakey's"
+                            FontSize="20"
+                            TextColor="#C62828"
+                            FontAttributes="Bold"
+                            VerticalOptions="Center"
+                            />
+
+                    </VerticalStackLayout>
+                </HorizontalStackLayout>
+
+            </Frame>
+        </VerticalStackLayout>
+
+    </ScrollView>
+</ContentPage>
