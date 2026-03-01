@@ -16,7 +16,7 @@
                 <Label
                     Text="Antipolo"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
@@ -29,7 +29,7 @@
                 <Label
                     Text="Cainta"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
@@ -42,7 +42,7 @@
                 <Label
                     Text="Magnolia"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
@@ -55,7 +55,7 @@
                 <Label
                     Text="Galleria"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
@@ -68,7 +68,7 @@
                 <Label
                     Text="Manila"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
@@ -81,7 +81,7 @@
                 <Label
                     Text="Los Banos"
                     FontSize="35"
-                    TextColor="Red"
+                    TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
                     />
