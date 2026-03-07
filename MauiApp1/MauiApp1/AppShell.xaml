@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<shell:Shell
+<Shell
     x:Class="MauiApp1.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:MauiApp1"
-    Shell.FlyoutBehavior="Flyout"
     Title="MauiApp1">
 
-    <FlyoutItem Title="Home">
-        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" />
+    <FlyoutItem Title="Robinsons Mall">
+        <ShellContent
+        Title="Home - Robinson's Mall"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" 
+        />
     </FlyoutItem>
 
-</shell:Shell>
+    <FlyoutItem Title="Settings">
+        <ShellContent
+            Title="Settings"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" 
+            />
+    </FlyoutItem>
+    <FlyoutItem Title="Available resto">
+        <ShellContent
+        Title="Available Resto"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" 
+        />
+    </FlyoutItem>
+    <FlyoutItem Title="About">
+        <ShellContent
+        Title="About"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" 
+    />
+    </FlyoutItem>
+    <FlyoutItem Title="Help">
+        <ShellContent
+        Title="Help"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" 
+    />
+    </FlyoutItem>
+</Shell>
