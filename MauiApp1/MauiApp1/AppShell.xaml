@@ -21,10 +21,10 @@
             Route="MainPage" 
             />
     </FlyoutItem>
-    <FlyoutItem Title="Available resto">
+    <FlyoutItem Title="Stores">
         <ShellContent
-        Title="Available Resto"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        Title="Stores "
+        ContentTemplate="{DataTemplate local:SecondPage}"
         Route="MainPage" 
         />
     </FlyoutItem>
@@ -41,5 +41,5 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" 
     />
-    </FlyoutItem> 
+    </FlyoutItem>    
 </Shell>
