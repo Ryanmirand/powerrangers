@@ -9,11 +9,11 @@
             Spacing="25">
 
             <Frame
-                BorderColor="Red"
+                BorderColor="#C62828"
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Antipolo"
                     FontSize="35"
                     TextColor="#C62828"
@@ -26,7 +26,7 @@
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Cainta"
                     FontSize="35"
                     TextColor="#C62828"
@@ -39,7 +39,7 @@
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Magnolia"
                     FontSize="35"
                     TextColor="#C62828"
@@ -52,7 +52,7 @@
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Galleria"
                     FontSize="35"
                     TextColor="#C62828"
@@ -65,7 +65,7 @@
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Manila"
                     FontSize="35"
                     TextColor="#C62828"
@@ -78,7 +78,7 @@
                 BackgroundColor="LightPink"
                 CornerRadius="20"
                 >
-                <Label
+                <Button
                     Text="Los Banos"
                     FontSize="35"
                     TextColor="#C62828"
@@ -94,5 +94,6 @@
                 Margin="0,30,0,30"/>
         </VerticalStackLayout>
     </ScrollView>
+
 
 </ContentPage>
