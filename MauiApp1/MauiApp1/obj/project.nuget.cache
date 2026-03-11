@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r4skArz74gA=",
+  "dgSpecHash": "aDR1aYRIF4k=",
   "success": true,
   "projectFilePath": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
@@ -111,6 +111,10 @@
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
+    "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm\\8.0.6\\microsoft.netcore.app.runtime.mono.android-arm.8.0.6.nupkg.sha512",
+    "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x86\\8.0.6\\microsoft.netcore.app.runtime.mono.android-x86.8.0.6.nupkg.sha512",
+    "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-x64\\8.0.6\\microsoft.netcore.app.runtime.mono.android-x64.8.0.6.nupkg.sha512",
+    "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.android-arm64\\8.0.6\\microsoft.netcore.app.runtime.mono.android-arm64.8.0.6.nupkg.sha512",
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.iossimulator-x64\\8.0.6\\microsoft.netcore.app.runtime.mono.iossimulator-x64.8.0.6.nupkg.sha512",
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.maccatalyst-x64\\8.0.6\\microsoft.netcore.app.runtime.mono.maccatalyst-x64.8.0.6.nupkg.sha512",
     "C:\\Users\\CompLab512-PC1\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
