@@ -19,6 +19,9 @@
                     TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
+                    Clicked="Button6_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"                    
                     />
             </Frame>
             <Frame
@@ -32,6 +35,9 @@
                     TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
+                    Clicked="Button5_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"                    
                     />
             </Frame>
             <Frame
@@ -45,6 +51,9 @@
                     TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
+                    Clicked="Button4_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"                    
                     />
             </Frame>
             <Frame
@@ -58,6 +67,9 @@
                     TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
+                    Clicked="Button3_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"                    
                     />
             </Frame>
             <Frame
@@ -71,6 +83,9 @@
                     TextColor="#C62828"
                     FontAttributes="Bold"
                     HorizontalOptions="Center"
+                    Clicked="Button2_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"
                     />
             </Frame>
             <Frame
@@ -83,7 +98,10 @@
                     FontSize="35"
                     TextColor="#C62828"
                     FontAttributes="Bold"
-                    HorizontalOptions="Center"
+                    HorizontalOptions="Fill"
+                    Clicked="Button_Clicked"
+                    Opacity="80"
+                    BackgroundColor="LightPink"
                     />
             </Frame>
             <Button
