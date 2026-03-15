@@ -60,8 +60,7 @@
               "RelativeToolTip": "MauiApp1\\MauiApp1.csproj",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T10:07:50.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T10:07:50.137Z"
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T00:27:19.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T00:27:19.925Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "MauiApp1\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-11T00:05:20.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T00:05:20.8Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "MauiApp1\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T00:05:01.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T00:05:01.365Z"
             },
             {
               "$type": "Document",
@@ -110,7 +106,7 @@
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAqwF4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-04T01:53:03.409Z",
               "EditorCaption": ""
@@ -124,8 +120,7 @@
               "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\Platforms\\Windows\\Package.appxmanifest",
               "RelativeToolTip": "MauiApp1\\Platforms\\Windows\\Package.appxmanifest",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
-              "WhenOpened": "2026-03-15T10:06:15.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T10:06:15.03Z"
             },
             {
               "$type": "Document",
@@ -137,8 +132,7 @@
               "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T00:01:46.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T00:01:46.025Z"
             },
             {
               "$type": "Document",
@@ -150,8 +144,7 @@
               "RelativeToolTip": "MauiApp1\\AppShell.xaml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-04T01:52:57.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T01:52:57.29Z"
             },
             {
               "$type": "Document",
@@ -163,8 +156,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Maui.Sdk\\8.0.100\\Sdk\\BundledVersions.targets",
               "ViewState": "AgIAAEgAAAAAAAAAAAAwwFQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-03-15T09:05:27.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T09:05:27.076Z"
             },
             {
               "$type": "Document",
@@ -176,8 +168,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.312\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ViewState": "AgIAABkAAAAAAAAAAAApwCUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-03-15T04:20:42.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T04:20:42.135Z"
             }
           ]
         }
