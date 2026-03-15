@@ -50,8 +50,7 @@
               "RelativeToolTip": "MauiApp1\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:53:56.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:53:56.471Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "MauiApp1\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-07T12:48:34.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:48:34.342Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "MauiApp1\\MauiProgram.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:48:27.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:48:27.274Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:46:24.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:46:24.057Z"
             },
             {
               "$type": "Document",
@@ -102,8 +98,7 @@
               "RelativeToolTip": "MauiApp1\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T12:46:13.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:46:13.362Z"
             },
             {
               "$type": "Document",
@@ -111,9 +106,9 @@
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
-              "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml*",
+              "RelativeToolTip": "MauiApp1\\MainPage.xaml*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-07T12:45:58.495Z",
               "EditorCaption": ""
@@ -128,8 +123,7 @@
               "RelativeToolTip": "MauiApp1\\AppShell.xaml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-03-07T12:45:51.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:45:51.267Z"
             }
           ]
         }
