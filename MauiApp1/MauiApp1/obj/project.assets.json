@@ -8,26 +8,10 @@
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-android21.0": [
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls",
-      "Microsoft.Maui.Controls.Compatibility"
-    ],
-    "net8.0-ios1.0": [
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls",
-      "Microsoft.Maui.Controls.Compatibility"
-    ],
-    "net8.0-maccatalyst1.0": [
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls",
-      "Microsoft.Maui.Controls.Compatibility"
-    ],
-    "net8.0-windows10.0.19041": [
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls",
-      "Microsoft.Maui.Controls.Compatibility"
-    ]
+    "net8.0-android21.0": [],
+    "net8.0-ios1.0": [],
+    "net8.0-maccatalyst1.0": [],
+    "net8.0-windows10.0.19041": []
   },
   "packageFolders": {
     "C:\\Users\\Irish\\.nuget\\packages\\": {},
@@ -95,20 +79,6 @@
     "frameworks": {
       "net8.0-android21.0": {
         "targetAlias": "net8.0-android",
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Debug": {
-            "target": "Package",
-            "version": "[8.0.0, )"
-          },
-          "Microsoft.Maui.Controls": {
-            "target": "Package",
-            "version": "(, )"
-          },
-          "Microsoft.Maui.Controls.Compatibility": {
-            "target": "Package",
-            "version": "(, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -129,20 +99,6 @@
       },
       "net8.0-ios1.0": {
         "targetAlias": "net8.0-ios",
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Debug": {
-            "target": "Package",
-            "version": "[8.0.0, )"
-          },
-          "Microsoft.Maui.Controls": {
-            "target": "Package",
-            "version": "(, )"
-          },
-          "Microsoft.Maui.Controls.Compatibility": {
-            "target": "Package",
-            "version": "(, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -163,20 +119,6 @@
       },
       "net8.0-maccatalyst1.0": {
         "targetAlias": "net8.0-maccatalyst",
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Debug": {
-            "target": "Package",
-            "version": "[8.0.0, )"
-          },
-          "Microsoft.Maui.Controls": {
-            "target": "Package",
-            "version": "(, )"
-          },
-          "Microsoft.Maui.Controls.Compatibility": {
-            "target": "Package",
-            "version": "(, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -197,20 +139,6 @@
       },
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
-        "dependencies": {
-          "Microsoft.Extensions.Logging.Debug": {
-            "target": "Package",
-            "version": "[8.0.0, )"
-          },
-          "Microsoft.Maui.Controls": {
-            "target": "Package",
-            "version": "(, )"
-          },
-          "Microsoft.Maui.Controls.Compatibility": {
-            "target": "Package",
-            "version": "(, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -239,12 +167,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1015",
-      "level": "Error",
-      "message": "The following PackageReference item(s) do not have a version specified: Microsoft.Maui.Controls, Microsoft.Maui.Controls.Compatibility"
-    }
-  ]
+  }
 }

@@ -1,0 +1,5 @@
+C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\MauiApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\MauiApp1.AssemblyInfoInputs.cache
+C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\MauiApp1.AssemblyInfo.cs
+C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\MauiApp1.csproj.CoreCompileInputs.cache
+C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\obj\Debug\net8.0-windows10.0.19041.0\MauiApp1.sourcelink.json
