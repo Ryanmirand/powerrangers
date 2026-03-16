@@ -8,7 +8,10 @@
             Padding="30,0"
             Spacing="25">
 
-            <SearchBar />
+            <SearchBar 
+                Placeholder="Search"
+                
+                />
 
             <Button
               Text="ANTIPOLO"
@@ -45,6 +48,8 @@
                 HeightRequest="200"
                 WidthRequest="1500"
                 BackgroundColor="DarkCyan" />
+            
+            
 
 
 
