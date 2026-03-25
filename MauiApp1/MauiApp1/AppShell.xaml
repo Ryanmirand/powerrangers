@@ -7,16 +7,33 @@
     Title="MauiApp1">
 
     <ShellContent
-        Title="Robinson Home"
+        Title="Robinson Malls"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
-    <FlyoutItem Title="About Us  ">
+    <FlyoutItem Title="About">
         <ShellContent
-        Title="Home - Robinson's Mall"
+        Title=" Robinson's Mall"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" 
         />
     </FlyoutItem>
+
+    <FlyoutItem Title="Contact Us" >
+        <ShellContent
+        Title=" Contact Us " 
+         ContentTemplate="{DataTemplate local:MainPage}"
+         Route="Mainpage"
+         />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Terms And Condition">
+        <ShellContent
+    Title=" Robinson's Mall"
+    ContentTemplate="{DataTemplate local:MainPage}"
+    Route="MainPage" 
+    />
+    </FlyoutItem>
+
 
 </Shell>

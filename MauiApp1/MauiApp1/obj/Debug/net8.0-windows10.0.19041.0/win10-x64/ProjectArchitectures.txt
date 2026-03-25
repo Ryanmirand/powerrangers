@@ -1,1 +1,1 @@
-C:\Users\Irish\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\MauiApp1.csproj;x64
+C:\Users\CompLab512-PC1\Documents\GitHub\powerrangers\MauiApp1\MauiApp1\MauiApp1.csproj;x64

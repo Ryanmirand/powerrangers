@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\irish\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\complab512-pc1\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\irish\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\complab512-pc1\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\complab512-pc1\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\irish\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\complab512-pc1\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|c:\\users\\complab512-pc1\\documents\\github\\powerrangers\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{48F8FBCE-0BF6-4EF9-8219-DEF8ABE89D9E}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -27,38 +35,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\App.xaml.cs",
+              "RelativeToolTip": "MauiApp1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T00:35:08.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeDocumentMoniker": "MauiApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\App.xaml",
+              "RelativeToolTip": "MauiApp1\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-25T00:35:14.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\AppShell.xaml",
               "RelativeDocumentMoniker": "MauiApp1\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\AppShell.xaml",
               "RelativeToolTip": "MauiApp1\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T00:11:50.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T00:09:57.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CompLab512-PC1\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-02-17T23:50:33.095Z",
               "EditorCaption": ""
