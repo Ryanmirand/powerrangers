@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "OIdral3m8Gk=",
-  "success": true,
+  "dgSpecHash": "2ynqo1ivej0=",
+  "success": false,
   "projectFilePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Irish\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
@@ -113,12 +113,1898 @@
     "C:\\Users\\Irish\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\Irish\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\Irish\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\Irish\\.nuget\\packages\\microsoft.android.ref.34\\34.0.154\\microsoft.android.ref.34.34.0.154.nupkg.sha512",
-    "C:\\Users\\Irish\\.nuget\\packages\\microsoft.android.runtime.34.android-arm\\34.0.154\\microsoft.android.runtime.34.android-arm.34.0.154.nupkg.sha512",
-    "C:\\Users\\Irish\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.154\\microsoft.android.runtime.34.android-arm64.34.0.154.nupkg.sha512",
-    "C:\\Users\\Irish\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.154\\microsoft.android.runtime.34.android-x64.34.0.154.nupkg.sha512",
-    "C:\\Users\\Irish\\.nuget\\packages\\microsoft.android.runtime.34.android-x86\\34.0.154\\microsoft.android.runtime.34.android-x86.34.0.154.nupkg.sha512",
     "C:\\Users\\Irish\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.NET.ILLink.Tasks",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Xaml",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Resizetizer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Essentials",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Graphics",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Android.Glide",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Navigation.Common",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Navigation.Fragment",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.Android.Material",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Browser",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Android.Glide.Annotations",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Android.Glide.DiskLruCache",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Android.Glide.GifDecoder",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ExifInterface",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Fragment",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Kotlin.StdLib",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Collection.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ProfileInstaller.ProfileInstaller",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.SavedState.SavedState.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Fragment.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Activity.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Collection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.CustomView",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Transition",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Interpolator",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.AppCompat",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.CardView",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.DynamicAnimation",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Fragment",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.RecyclerView",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ViewPager2",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.ErrorProne.Annotations",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Concurrent.Futures",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "GoogleGson",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.Code.FindBugs.JSR305",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Google.ErrorProne.Annotations",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Activity",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Collection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Loader",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ProfileInstaller.ProfileInstaller",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.SavedState",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ViewPager",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Kotlin.StdLib",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Interpolator",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Jetbrains.Annotations",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Kotlin.StdLib.Common",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Annotation.Jvm",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Android",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.SavedState",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Startup.StartupRuntime",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Window",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Activity",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.AppCompat.AppCompatResources",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Emoji2.ViewsHelper",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Emoji2",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ResourceInspection.Annotation",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Loader",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.ViewPager",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.CustomView.PoolingContainer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk8",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Core.Jvm",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Window.Extensions.Core.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Process",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.DocumentFile",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.AndroidX.Print",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk7",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Xaml",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Resizetizer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Essentials",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Graphics",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Xaml",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Resizetizer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Essentials",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Graphics",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Controls.Xaml",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Resizetizer",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Core",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "System.Diagnostics.DiagnosticSource",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Options",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Essentials",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Maui.Graphics",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Graphics.Win2D",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Windows.SDK.BuildTools",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Extensions.Primitives",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.IO.RecyclableMemoryStream",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "projectPath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "filePath": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref",
+      "targetGraphs": []
+    }
+  ]
 }

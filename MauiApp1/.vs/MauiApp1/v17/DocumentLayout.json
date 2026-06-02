@@ -48,8 +48,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -106,7 +110,7 @@
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
               "ToolTip": "C:\\Users\\Irish\\Documents\\GitHub\\powerrangers\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF4AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAgMzMzMzMrwF4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-04T01:53:03.409Z",
               "EditorCaption": ""

@@ -26414,28 +26414,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.Android.Ref.34",
-            "version": "[34.0.154, 34.0.154]"
-          },
-          {
-            "name": "Microsoft.Android.Runtime.34.android-arm",
-            "version": "[34.0.154, 34.0.154]"
-          },
-          {
-            "name": "Microsoft.Android.Runtime.34.android-arm64",
-            "version": "[34.0.154, 34.0.154]"
-          },
-          {
-            "name": "Microsoft.Android.Runtime.34.android-x64",
-            "version": "[34.0.154, 34.0.154]"
-          },
-          {
-            "name": "Microsoft.Android.Runtime.34.android-x86",
-            "version": "[34.0.154, 34.0.154]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.Android": {
             "privateAssets": "all"
@@ -26575,5 +26553,1267 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.NET.ILLink.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Xaml"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Resizetizer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Essentials"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Graphics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Android.Glide"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Navigation.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Navigation.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.Android.Material"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Browser"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Android.Glide.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Android.Glide.DiskLruCache"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Android.Glide.GifDecoder"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ExifInterface"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Kotlin.StdLib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Collection.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ProfileInstaller.ProfileInstaller"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.SavedState.SavedState.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Fragment.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Activity.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Transition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.AppCompat"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.CardView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.DynamicAnimation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.RecyclerView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ViewPager2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.ErrorProne.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Concurrent.Futures"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "GoogleGson"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.Code.FindBugs.JSR305"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Google.ErrorProne.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ProfileInstaller.ProfileInstaller"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Kotlin.StdLib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Jetbrains.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Kotlin.StdLib.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Annotation.Jvm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Startup.StartupRuntime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Window"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.AppCompat.AppCompatResources"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Emoji2.ViewsHelper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Emoji2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ResourceInspection.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.CustomView.PoolingContainer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk8"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Core.Jvm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Window.Extensions.Core.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Process"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.DocumentFile"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.AndroidX.Print"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk7"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Xaml"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Resizetizer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Essentials"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Graphics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Xaml"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Resizetizer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Essentials"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Graphics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Compatibility"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Build.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Controls.Xaml"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Resizetizer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Essentials"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Maui.Graphics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Graphics.Win2D"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Windows.SDK.BuildTools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.IO.RecyclableMemoryStream"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'D:\\VS\\SDK's\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref"
+    }
+  ]
 }
