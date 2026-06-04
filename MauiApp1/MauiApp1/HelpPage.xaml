@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiApp1.HelpPage"
              BackgroundColor="LightPink"
-             Title="HELP &amp; SUPPORT">
+             Title="HELP & SUPPORT">
 
     <Grid RowDefinitions="Auto, *">
         <Grid Grid.Row="0" Margin="15" VerticalOptions="Center">
