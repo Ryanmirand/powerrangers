@@ -38,8 +38,8 @@
     <FlyoutItem Title="Help">
         <ShellContent
         Title="Help"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" 
+        ContentTemplate="{DataTemplate local:Help}"
+        Route="Help" 
     />
     </FlyoutItem>    
 </Shell>
