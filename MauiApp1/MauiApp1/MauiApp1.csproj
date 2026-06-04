@@ -48,4 +48,12 @@
 	  <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="10.0.5" />
 		<MauiSplashScreen Include="Resources\AppIcon\appicon.svg" Color="#512BD4" BaseSize="128,128" />
 	</ItemGroup>
+<ItemGroup>
+    <Compile Update="RestoPage.xaml.cs">
+      <DependentUpon>RestoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="SettingsPage.xaml.cs">
+      <DependentUpon>SettingsPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
