@@ -17,8 +17,8 @@
     <FlyoutItem Title="Settings">
         <ShellContent
             Title="Settings"
-            ContentTemplate="{DataTemplate local:MainPage}"
-            Route="MainPage" 
+            ContentTemplate="{DataTemplate local:SettingsPage}"
+            Route="SettingsPage" 
             />
     </FlyoutItem>
     <FlyoutItem Title="Stores">
