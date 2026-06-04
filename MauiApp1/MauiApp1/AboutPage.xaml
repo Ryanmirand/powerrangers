@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.AboutPage"
+             Title="About">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,25"
+            Spacing="25">
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="20,30">
+                <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                    <Label Text="MauiApp1"
+                           FontSize="40"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"/>
+                    <Label Text="Version 1.0.0"
+                           FontSize="18"
+                           TextColor="#C62828"
+                           Opacity="0.8"
+                           HorizontalOptions="Center"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Application Info"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#C62828"
+                   Margin="5,10,0,-10"/>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="20">
+                <Label Text="This application helps you seamlessly explore and navigate various Robinson's branches and locations, including Antipolo, Cainta, Manila, and Los Baños."
+                       FontSize="18"
+                       TextColor="#C62828"
+                       LineHeight="1.3"/>
+            </Frame>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="20">
+                <Grid ColumnDefinitions="*, Auto">
+                    <Label Grid.Column="0"
+                           Text="Developed By"
+                           FontSize="20"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"/>
+                    <Label Grid.Column="1"
+                           Text="Your Name"
+                           FontSize="18"
+                           TextColor="#C62828"
+                           VerticalOptions="Center"/>
+                </Grid>
+            </Frame>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="15">
+                <Label Text="©2026 All Rights Reserved - Galano"
+                       FontSize="14"
+                       TextColor="#C62828"
+                       HorizontalOptions="Center"/>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
