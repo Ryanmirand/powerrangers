@@ -25,7 +25,7 @@
         <ShellContent
         Title="Stores "
         ContentTemplate="{DataTemplate local:SecondPage}"
-        Route="MainPage" 
+        Route="SecondPage" 
         />
     </FlyoutItem>
     <FlyoutItem Title="About">
