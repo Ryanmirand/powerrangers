@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.AboutPage"
+             BackgroundColor="LightPink"
+             Title="ABOUT US">
+
+    <Grid RowDefinitions="Auto, *">
+        <Grid Grid.Row="0" Margin="15" VerticalOptions="Center">
+            <Label Text="ABOUT ROBINSONS MALLS" 
+                   TextColor="#CC0000" 
+                   FontSize="22" 
+                   FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+        </Grid>
+
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="20">
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="20">
+                    <VerticalStackLayout Spacing="10">
+                        <Label Text="Our Story" FontSize="20" FontAttributes="Bold" TextColor="#CC0000"/>
+                        <Label Text="Robinsons Malls is one of the largest and most successful chains of shopping malls in the Philippines. Committed to providing world-class shopping, dining, and entertainment experiences, we bring life, color, and convenience closer to millions of Filipinos every day." 
+                               FontSize="15" 
+                               TextColor="Black" 
+                               LineHeight="1.3"/>
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Label Text="Our Pillars" 
+                       TextColor="#CC0000" 
+                       FontSize="18" 
+                       FontAttributes="Bold" 
+                       Margin="5,10,0,0" />
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="Auto, *">
+                        <Label Text="🛍️" FontSize="30" VerticalOptions="Center" Margin="0,0,15,0"/>
+                        <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
+                            <Label Text="Convenience &amp; Accessibility" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Strategically located hubs that serve your daily needs seamlessly." FontSize="13" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                    </Grid>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="Auto, *">
+                        <Label Text="🤝" FontSize="30" VerticalOptions="Center" Margin="0,0,15,0"/>
+                        <VerticalStackLayout Grid.Column="1" VerticalOptions="Center">
+                            <Label Text="Community First" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Creating vibrant spaces where families and friends gather and connect." FontSize="13" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                    </Grid>
+                </Frame>
+
+                <Label Text="Robinsons Malls App v1.0" 
+                       FontSize="12" 
+                       TextColor="Gray" 
+                       HorizontalOptions="Center" 
+                       Margin="0,20,0,10"/>
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
