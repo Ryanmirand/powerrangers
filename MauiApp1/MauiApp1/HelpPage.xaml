@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.HelpPage"
+             BackgroundColor="LightPink"
+             Title="HELP &amp; SUPPORT">
+
+    <Grid RowDefinitions="Auto, *">
+        <Grid Grid.Row="0" Margin="15" VerticalOptions="Center">
+            <Label Text="HOW TO USE THE APP" 
+                   TextColor="#CC0000" 
+                   FontSize="22" 
+                   FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+        </Grid>
+
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="15">
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="🔍 How do I search for a mall?" FontSize="16" FontAttributes="Bold" TextColor="#CC0000"/>
+                        <Label Text="On the Home page, type the name of the location (like 'Cainta' or 'Antipolo') into the search bar pinned at the top of the screen to quickly filter the list." 
+                               FontSize="14" 
+                               TextColor="Black" />
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="🍔 Where can I find open restaurants?" FontSize="16" FontAttributes="Bold" TextColor="#CC0000"/>
+                        <Label Text="Open the side flyout menu by tapping the triple-line button (≡) at the top-left corner, then tap 'Available resto' to view a full directory of dining spots categorized by floor level." 
+                               FontSize="14" 
+                               TextColor="Black" />
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="⚙️ Can I change app preferences?" FontSize="16" FontAttributes="Bold" TextColor="#CC0000"/>
+                        <Label Text="Yes! Navigate to the 'Settings' section from your flyout menu. There you can toggle push notifications, location services, and theme setups to your liking." 
+                               FontSize="14" 
+                               TextColor="Black" />
+                    </VerticalStackLayout>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <VerticalStackLayout Spacing="5">
+                        <Label Text="🌐 Still need assistance?" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                        <Label Text="For additional support or to report directory inaccuracies, contact customer service at support@robinsonsmalls.com." 
+                               FontSize="14" 
+                               TextColor="Gray" />
+                    </VerticalStackLayout>
+                </Frame>
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
