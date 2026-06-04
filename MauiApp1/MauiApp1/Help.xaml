@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.HelpPage"
+             Title="Help">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,25"
+            Spacing="25">
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="20">
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Need Assistance?"
+                           FontSize="24"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"/>
+                    <Label Text="If you encounter any issues or have questions about navigating the app, feel free to reach out."
+                           FontSize="16"
+                           TextColor="#C62828"
+                           HorizontalOptions="Center"
+                           HorizontalTextAlignment="Center"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="20">
+                <VerticalStackLayout Spacing="8" HorizontalOptions="Center">
+                    <Label Text="Contact Email"
+                           FontSize="18"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center"/>
+                    <Label Text="rhoangalano@gmail.com"
+                           FontSize="18"
+                           TextColor="#C62828"
+                           HorizontalOptions="Center"/>
+                </VerticalStackLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
