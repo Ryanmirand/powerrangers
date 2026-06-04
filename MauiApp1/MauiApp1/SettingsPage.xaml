@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.SettingsPage"
+             Title="Settings">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,25"
+            Spacing="25">
+
+            <Label Text="Preferences"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#C62828"
+                   Margin="5,0,0,-10"/>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="15,10">
+                <Grid ColumnDefinitions="*, Auto">
+                    <Label Grid.Column="0"
+                           Text="Dark Mode"
+                           FontSize="24"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"/>
+                    <Switch Grid.Column="1"
+                            IsToggled="False"
+                            OnColor="#C62828"
+                            ThumbColor="White"
+                            VerticalOptions="Center"/>
+                </Grid>
+            </Frame>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="15,10">
+                <Grid ColumnDefinitions="*, Auto">
+                    <Label Grid.Column="0"
+                           Text="Notifications"
+                           FontSize="24"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"/>
+                    <Switch Grid.Column="1"
+                            IsToggled="True"
+                            OnColor="#C62828"
+                            ThumbColor="White"
+                            VerticalOptions="Center"/>
+                </Grid>
+            </Frame>
+
+            <Label Text="System"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   TextColor="#C62828"
+                   Margin="5,10,0,-10"/>
+
+            <Frame
+                BorderColor="#C62828"
+                BackgroundColor="LightPink"
+                CornerRadius="20"
+                Padding="15,15">
+                <Grid ColumnDefinitions="*, Auto">
+                    <Label Grid.Column="0"
+                           Text="App Version"
+                           FontSize="24"
+                           TextColor="#C62828"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center"/>
+                    <Label Grid.Column="1"
+                           Text="1.0.0"
+                           FontSize="22"
+                           TextColor="#C62828"
+                           VerticalOptions="Center"/>
+                </Grid>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
