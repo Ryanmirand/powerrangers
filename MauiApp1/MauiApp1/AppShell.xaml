@@ -29,16 +29,16 @@
     </FlyoutItem>
     <FlyoutItem Title="About">
         <ShellContent
-        Title="About"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" 
-    />
+            Title="About"
+            ContentTemplate="{DataTemplate local:AboutPage}"
+            Route="AboutPage" />
+    </FlyoutItem>
     </FlyoutItem>
     <FlyoutItem Title="Help">
         <ShellContent
         Title="Help"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" 
+        ContentTemplate="{DataTemplate local:HelpPage}"
+        Route="HelpPage" 
     />
     </FlyoutItem>
 </Shell>
