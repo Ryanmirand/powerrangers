@@ -21,12 +21,11 @@
             Route="SettingsPage" />
     </FlyoutItem>
     </FlyoutItem>
-    <FlyoutItem Title="Available resto">
+   <FlyoutItem Title="Available resto">
         <ShellContent
-        Title="Available Resto"
-        ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" 
-        />
+            Title="Available Resto"
+            ContentTemplate="{DataTemplate local:RestoPage}"
+            Route="RestoPage" />
     </FlyoutItem>
     <FlyoutItem Title="About">
         <ShellContent
