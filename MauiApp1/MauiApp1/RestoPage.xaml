@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.RestoPage"
+             BackgroundColor="LightPink"
+             Title="AVAILABLE RESTOS">
+
+    <Grid RowDefinitions="Auto, *">
+        <Grid Grid.Row="0" ColumnDefinitions="Auto, *" Margin="10" VerticalOptions="Center">
+            <Label Grid.Column="0" 
+                   Text="FOOD SPOTS" 
+                   TextColor="#CC0000" 
+                   FontSize="18" 
+                   FontAttributes="Bold" 
+                   VerticalTextAlignment="Center"
+                   Margin="5,0,15,0" />
+
+            <SearchBar Grid.Column="1" 
+                       Placeholder="Search for a restaurant..." 
+                       HeightRequest="45"
+                       TextColor="Black"
+                       BackgroundColor="White" />
+        </Grid>
+
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="15">
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="*, Auto">
+                        <VerticalStackLayout>
+                            <Label Text="Jollibee" FontSize="22" FontAttributes="Bold" TextColor="#CC0000"/>
+                            <Label Text="Fast Food • Level 1" FontSize="14" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                        <Label Grid.Column="1" Text="❤️" FontSize="24" VerticalOptions="Center"/>
+                    </Grid>
+                </Frame>
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="*, Auto">
+                        <VerticalStackLayout>
+                            <Label Text="Max's Restaurant" FontSize="22" FontAttributes="Bold" TextColor="#CC0000"/>
+                            <Label Text="Filipino Casual Dining • Level 2" FontSize="14" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                        <Label Grid.Column="1" Text="❤️" FontSize="24" VerticalOptions="Center"/>
+                    </Grid>
+                </Frame>
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
