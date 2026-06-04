@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.SettingsPage"
+             BackgroundColor="LightPink"
+             Title="SETTINGS">
+
+    <Grid RowDefinitions="Auto, *">
+        <Grid Grid.Row="0" Margin="15" VerticalOptions="Center">
+            <Label Text="APP SETTINGS" 
+                   TextColor="#CC0000" 
+                   FontSize="22" 
+                   FontAttributes="Bold" 
+                   HorizontalOptions="Center" />
+        </Grid>
+
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout Padding="20" Spacing="15">
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="*, Auto">
+                        <VerticalStackLayout VerticalOptions="Center">
+                            <Label Text="Push Notifications" FontSize="18" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Receive updates about mall promos" FontSize="12" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                        <Switch Grid.Column="1" OnColor="#CC0000" VerticalOptions="Center"/>
+                    </Grid>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="*, Auto">
+                        <VerticalStackLayout VerticalOptions="Center">
+                            <Label Text="Dark Mode" FontSize="18" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Switch to a darker viewing theme" FontSize="12" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                        <Switch Grid.Column="1" OnColor="#CC0000" VerticalOptions="Center"/>
+                    </Grid>
+                </Frame>
+
+                <Frame BorderColor="Black" BackgroundColor="White" CornerRadius="12" Padding="15">
+                    <Grid ColumnDefinitions="*, Auto">
+                        <VerticalStackLayout VerticalOptions="Center">
+                            <Label Text="Location Services" FontSize="18" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Find the nearest Robinsons branch automatically" FontSize="12" TextColor="Gray"/>
+                        </VerticalStackLayout>
+                        <Switch Grid.Column="1" OnColor="#CC0000" VerticalOptions="Center" IsToggled="True"/>
+                    </Grid>
+                </Frame>
+
+                <Button Text="SAVE PREFERENCES" 
+                        HeightRequest="50" 
+                        BackgroundColor="#CC0000" 
+                        TextColor="White" 
+                        FontAttributes="Bold"
+                        CornerRadius="8" 
+                        Margin="0,20,0,0"/>
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>
