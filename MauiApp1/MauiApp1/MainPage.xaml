@@ -4,10 +4,8 @@
              x:Class="MauiApp1.MainPage"
              BackgroundColor="LightPink">
 
-    <!-- Grid structure keeps your top header and bottom elements isolated -->
     <Grid RowDefinitions="Auto, *">
 
-        <!-- Top Header Area -->
         <Grid Grid.Row="0" ColumnDefinitions="Auto, *" Margin="10" VerticalOptions="Center">
             <Label Grid.Column="0" 
                    Text="ROBINSONS" 
@@ -23,11 +21,9 @@
                        TextColor="Black"
                        BackgroundColor="White" />
         </Grid>
-
-        <!-- Main Content Area with Floating Layer Container -->
+     
         <Grid Grid.Row="1">
             
-            <!-- 1. YOUR ORIGINAL SCROLLABLE MALL LIST -->
             <ScrollView>
                 <VerticalStackLayout Padding="20" Spacing="15">
                     <Button Text="ANTIPOLO                      →" HeightRequest="80" FontSize="20" FontAttributes="Bold" BackgroundColor="RED" TextColor="WHITE" BorderColor="BLACK" BorderWidth="1" CornerRadius="12" />
@@ -39,8 +35,6 @@
                 </VerticalStackLayout>
             </ScrollView>
 
-            <!-- 2. THE MINI FLYING SIDE BUTTON (FAB) -->
-            <!-- Positioned at the bottom right using alignments -->
             <Button Text="🍕 Craving?"
                     HeightRequest="60"
                     WidthRequest="130"
@@ -56,7 +50,6 @@
                     Shadow="{Shadow Brush=Black, Offset='2,2', Radius=5, Opacity=0.4}"
                     Clicked="OnCravingFabClicked" />
 
-            <!-- 3. THE CRAVING PANEL OVERLAY (Hidden by default) -->
             <ContentView x:Name="CravingOverlay" IsVisible="False" BackgroundColor="#CC000000" Padding="20">
                 <Frame BackgroundColor="White" BorderColor="Black" CornerRadius="15" VerticalOptions="Center" Padding="20">
                     <VerticalStackLayout Spacing="15">
@@ -66,7 +59,6 @@
                             <Button Grid.Column="1" Text="X" BackgroundColor="Transparent" TextColor="Gray" FontAttributes="Bold" FontSize="18" Clicked="OnCloseOverlayClicked"/>
                         </Grid>
 
-                        <!-- Dropdown 1: Food Type -->
                         <Label Text="Select Category:" FontAttributes="Bold" TextColor="Black"/>
                         <Picker x:Name="CravingPicker" Title="Choose food or drink..." TitleColor="Gray" TextColor="Black">
                             <Picker.Items>
@@ -79,7 +71,6 @@
                             </Picker.Items>
                         </Picker>
 
-                        <!-- Dropdown 2: Current Mall Location -->
                         <Label Text="Select Current Mall:" FontAttributes="Bold" TextColor="Black"/>
                         <Picker x:Name="MallPicker" Title="Choose your branch..." TitleColor="Gray" TextColor="Black">
                             <Picker.Items>
@@ -92,10 +83,8 @@
                             </Picker.Items>
                         </Picker>
 
-                        <!-- Action Button -->
                         <Button Text="FIND RECOMMENDED RESTO" BackgroundColor="#CC0000" TextColor="White" FontAttributes="Bold" HeightRequest="45" CornerRadius="8" Clicked="OnFindRestoClicked"/>
 
-                        <!-- Result Section Container -->
                         <VerticalStackLayout x:Name="RecommendationResult" IsVisible="False" Margin="0,10,0,0" Spacing="5">
                             <Label Text="✨ Recommended for you:" FontAttributes="Bold" TextColor="Gray" HorizontalOptions="Center"/>
                             <Label x:Name="ResultText" Text="Jollibee (Level 1)" FontSize="22" FontAttributes="Bold" TextColor="#CC0000" HorizontalOptions="Center"/>
